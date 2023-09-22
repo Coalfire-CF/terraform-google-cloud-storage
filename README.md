@@ -10,9 +10,9 @@ FedRAMP Compliance: High
 
 ```
 module "gcs" {
-  source = "github.com/Coalfire-CF/ACE-GCP-Cloud-Storage"
+  source = "github.com/Coalfire-CF/terraform-gcp-cloud-storage"
 
-  project_id = google_project.management.project_id
+  project_id = "project-id"
   names = [
     "tfstate",
     "backups",
@@ -48,8 +48,6 @@ module "gcs" {
   location = var.region
 
   randomize_suffix = true
-
-  depends_on = [google_kms_crypto_key_iam_member.gcs_account]
 }
 ```
 
