@@ -1,8 +1,10 @@
+![Coalfire](coalfire_logo.png)
+
 # Google Cloud Storage Terraform Module
 
 ## Description
 
-This module makes it easy to create one or more GCS buckets, and assign basic permissions on them to arbitrary users. 
+This module makes it easy to create one or more GCS buckets, and assign basic permissions on them to arbitrary users. Coalfire has tested this module with Terraform version 1.5.0 and the Hashicorp Google provider versions 4.70 - 5.0.
 
 FedRAMP Compliance: High
 
