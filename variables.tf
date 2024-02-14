@@ -6,7 +6,7 @@ variable "project_id" {
 variable "prefix" {
   description = "Prefix used to generate the bucket name."
   type        = string
-  default     = ""
+  default     = "bkt"
 }
 
 variable "names" {
