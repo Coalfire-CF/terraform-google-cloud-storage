@@ -120,17 +120,3 @@ No modules.
 | <a name="output_urls"></a> [urls](#output\_urls) | Bucket URLs. |
 | <a name="output_urls_list"></a> [urls\_list](#output\_urls\_list) | List of bucket URLs. |
 <!-- END_TF_DOCS -->
-## Tree
-
-```text
-.
-|-- CHANGELOG.md
-|-- CONTRIBUTING.md
-|-- LICENSE
-|-- README.md
-|-- coalfire_logo.png
-|-- main.tf
-|-- outputs.tf
-|-- release-please-config.json
-|-- variables.tf
-```
