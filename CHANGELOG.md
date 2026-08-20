@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.1](https://github.com/Coalfire-CF/terraform-google-cloud-storage/compare/v1.1.0...v1.1.1) (2026-08-20)
+
+
+### Bug Fixes
+
+* **release:** pass secrets to org-release (App token for release-please) ([#36](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/36)) ([b5dd40a](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/b5dd40a4353a3ad1f8d480607abded0adeb660fc))
+
+
+### Miscellaneous
+
+* adopt Actions v0.12.1 (bypass auto-merge + event-driven re-merge) ([0c6f83a](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/0c6f83a4c083767f50592a484e0332984349bd45))
+* **ci:** adopt Coalfire-CF/Actions v0.11.3 ([#34](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/34)) ([6fbe285](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/6fbe2856874b3ddf32e6a2d38bd8753d3a2f51aa))
+* **deps:** bump the org-actions group across 1 directory with 8 updates ([#46](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/46)) ([a194fc6](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/a194fc668c427ab2debafaff28f48b14b90638b7))
+* **deps:** bump the org-actions group with 10 updates ([#38](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/38)) ([d115158](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/d11515890ea61a78c44e8504e458b55f11b6a527))
+* **deps:** bump the org-actions group with 10 updates ([#39](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/39)) ([041c6a5](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/041c6a57931e81ef8e5eb4a29e6dbf4943860418))
+* **deps:** bump the org-actions group with 10 updates ([#40](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/40)) ([852f6ee](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/852f6ee4e2f2354d636ff43126b7a99766455b20))
+* **deps:** bump the org-actions group with 9 updates ([#37](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/37)) ([28e54af](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/28e54af5c0e1883f419607d24cfefa9e63ad8c97))
+* **deps:** bump the org-actions group with 9 updates ([#43](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/43)) ([957c77d](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/957c77d06258bfa268cdfbae46ae61483dcf44f8))
+* **docs:** generate README from _header.md and _footer.md ([#45](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/45)) ([4057dd4](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/4057dd42e908629a4e36583dd2af81f600911695))
+* retire org-tree-readme ([#41](https://github.com/Coalfire-CF/terraform-google-cloud-storage/issues/41)) ([045fb0c](https://github.com/Coalfire-CF/terraform-google-cloud-storage/commit/045fb0ce58656824d0c359315847dddda8fdc4be))
+
 ## [1.1.0](https://github.com/Coalfire-CF/terraform-google-cloud-storage/compare/v1.0.4...v1.1.0) (2026-07-05)
 
 
